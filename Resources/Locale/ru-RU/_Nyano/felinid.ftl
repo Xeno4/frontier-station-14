@@ -1,7 +1,7 @@
-hairball-action = Cough Up Hairball
-hairball-action-desc = Purge some of your chemstream, and gain a cool hairball to throw at people.
-hairball-mask = Take off your {$mask} first.
-hairball-cough = {CAPITALIZE(THE($name))} starts coughing up a hairball!
+hairball-action = Выкашлять комок шерсти.
+hairball-action-desc = Немного очистите свою кровь и получите крутой комочек шерсти, который можно кинуть в людей.
+hairball-mask = Сначала снимите {$mask}.
+hairball-cough = {CAPITALIZE(THE($name))} выкашливает комок шерсти! 
 
-action-name-eat-mouse = Eat Mouse
-action-description-eat-mouse = Eat the mouse in your hand, gaining nutriment and a hairball charge.
+action-name-eat-mouse = Съесть мышь
+action-description-eat-mouse = Съешьте мышь в вашей руке, насыщаясь и получая дополнительный комок шерсти.

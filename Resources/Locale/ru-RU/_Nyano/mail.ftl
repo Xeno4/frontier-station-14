@@ -1,17 +1,17 @@
-mail-recipient-mismatch = Recipient name or job does not match.
-mail-invalid-access = Recipient name and job match, but access isn't as expected.
-mail-locked = The anti-tamper lock hasn't been removed. Tap the recipient's ID.
-mail-desc-far = A parcel of mail. You can't make out who it's addressed to from this distance.
-mail-desc-close = A parcel of mail addressed to {CAPITALIZE($name)}, {$job}.
-mail-desc-fragile = It has a [color=red]red fragile label[/color].
-mail-desc-priority = The anti-tamper lock's [color=yellow]yellow priority tape[/color] is active. Better deliver it on time!
-mail-desc-priority-inactive = The anti-tamper lock's [color=#886600]yellow priority tape[/color] is inactive.
-mail-unlocked = Anti-tamper system unlocked.
-mail-unlocked-by-emag = Anti-tamper system *BZZT*.
-mail-unlocked-reward = Anti-tamper system unlocked. {$bounty} zorkmids have been added to cargo's account.
-mail-penalty-lock = ANTI-TAMPER LOCK BROKEN. CARGO BANK ACCOUNT PENALIZED BY {$credits} CREDITS.
-mail-penalty-fragile = INTEGRITY COMPROMISED. CARGO BANK ACCOUNT PENALIZED BY {$credits} CREDITS.
-mail-penalty-expired = DELIVERY PAST DUE. CARGO BANK ACCOUNT PENALIZED BY {$credits} CREDITS.
+mail-recipient-mismatch = Имя или должность получателя не совпадает.
+mail-invalid-access = Имя и должность получателя совпадают, но доступ отсутствует.
+mail-locked = Защитная щёлочка не снята. Приложите ID получателя.
+mail-desc-far = Почтовый конверт. Вы не можете рассмотреть, кому он адресован.
+mail-desc-close = Почтовый конверт, адресованный {CAPITALIZE($name)}, {$job}.
+mail-desc-fragile = У него [color=red]красная маркировка хрупкого груза[/color].
+mail-desc-priority = На защитной щёлочке активна [color=yellow]приоритетная маркировка[/color]. Лучше доставить конверт вовремя!
+mail-desc-priority-inactive = На защитной щёлочке имеется неактивная [color=#886600]приоритетная маркировка[/color].
+mail-unlocked = Защитная щёлочка снята.
+mail-unlocked-by-emag = Защитная щёлочка*БЖЖЖЖТ*
+mail-unlocked-reward = Защитная щёлочка снята. {$bounty} кредитов добавлены в счёт карго.
+mail-penalty-lock = ЗАЩИТНАЯ ЩЁЛОЧКА УНИЧТОЖЕНА. СЧЁТ КАРГО ПОЛУЧАЕТ ШТРАФ В СУММЕ {$credits} КРЕДИТОВ.
+mail-penalty-fragile = ЦЕЛОСТНОСТЬ НАРУШЕНА. СЧЁТ КАРГО ПОЛУЧАЕТ ШТРАФ В СУММЕ {$credits} КРЕДИТОВ.
+mail-penalty-expired = ВРЕМЯ ДОСТАВКИ ВЫШЛО. СЧЁТ КАРГО ПОЛУЧАЕТ ШТРАФ В СУММЕ {$credits} КРЕДИТОВ.
 
 command-mailto-description = Queue a parcel to be delivered to an entity. Example usage: `mailto 1234 5678 false false`. The target container's contents will be transferred to an actual mail parcel.
 command-mailto-help = Usage: {$command} <recipient entityUid> <container entityUid> [is-fragile: true or false] [is-priority: true or false]
