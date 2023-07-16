@@ -22,3 +22,6 @@ station-bank-bounty = Bounty
 station-bank-other = Other
 station-bank-required = {"("}Required{")"}
 station-bank-requires-reason = NT Requires transaction details
+## Entities
+ent-ComputerBankATM = bank ATM
+    .desc = Used to deposit and withdraw funds from a personal bank account
