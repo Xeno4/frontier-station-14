@@ -134,7 +134,7 @@ namespace Content.Client.Lobby.UI
                     _summaryLabel.Text = selectedCharacter.Summary;
                     _entityManager.System<HumanoidAppearanceSystem>().LoadProfile(_previewDummy.Value, selectedCharacter);
                     var balance = selectedCharacter.BankBalance.ToString();
-                    _bankAccountLabel.Text = $"Account Balance: ${balance}";
+                    _bankAccountLabel.Text = Loc.GetString("lobby-character-preview-panel-account-balance", ("balance", balance));
                     EntitySystem.Get<HumanoidAppearanceSystem>().LoadProfile(_previewDummy.Value, selectedCharacter);
                     GiveDummyJobClothes(_previewDummy.Value, selectedCharacter);
                 }
