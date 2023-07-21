@@ -42,3 +42,10 @@ ent-CrateVendingMachineRestockDonutFilled = ящик пополнения Пон
     .desc = Содержит набор пополнения торгомата Пончики Монкинс.
 ent-CrateVendingMachineRestockHappyHonkFilled = ящик пополнения Хэппи Хонк
     .desc = Содержит набор пополнения торгомата Хэппи Хонк.
+ent-CrateVendingMachineRestockCircuitVendFilled = ящик пополнения ПлатТех
+    .desc = Содержит набор пополнения торгомата ПлатТех.
+ent-CrateVendingMachineRestockAstroVendFilled = ящик пополнения АстроТех
+    .desc = Содержит набор пополнения торгомата АстроТех.
+ent-CrateVendingMachineRestockAmmoFilled = ящик пополнения Станции Свободы
+    .desc = Содержит набор пополнения торгомата Станция Свободы.
+
