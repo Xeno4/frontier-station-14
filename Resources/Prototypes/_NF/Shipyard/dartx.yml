@@ -1,7 +1,7 @@
 - type: vessel
   id: DartX
   name: NT Dart-X 
-  description: A light emergency response cruiser outfitted for extended rescue missions.
+  description: Лёгкий крейсер быстрого реагирования, снаряжённый для продолжительных спасательных миссий. 
   price: 89650
   category: Medium
   group: Civilian

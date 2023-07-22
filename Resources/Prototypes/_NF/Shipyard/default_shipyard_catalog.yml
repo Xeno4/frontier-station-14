@@ -57,7 +57,7 @@
 - type: vessel
   id: Courser
   name: NT Courser-X
-  description: A medium sized multi-role long haul conversion of the long time popular Courser model.
+  description: Среднего размера корабль, подходящий для всех задач. Модификация популярной модели Courser. 
   price: 68650
   category: Medium
   group: Civilian
@@ -89,7 +89,7 @@
 - type: vessel
   id: Construct
   name: NT Construct
-  description: A technically spacefaring vessel.  No livery.
+  description: Простой и быстрый корабль для полётов в космосе. Никакого жилого пространства. 
   price: 10975
   category: Small
   group: Civilian
@@ -117,7 +117,7 @@
 - type: vessel
   id: MailTruck
   name: NC Mail Truck
-  description: A cramped yet reliable shuttle for delivering packages.
+  description: Тесный, но очень надёжный шаттл для доставки писем.
   price: 12150
   category: Small
   group: Civilian
@@ -145,7 +145,7 @@
 - type: vessel
   id: Barge
   name: NC Barge
-  description: A medium shipping vessel repurposed into a salvage bar.
+  description: Среднего размера логистический корабль, переоборудованный в утилизаторский бар.
   price: 38700
   category: Medium
   group: Civilian
@@ -176,7 +176,7 @@
 - type: vessel
   id: Prospector
   name: NC Prospector
-  description: A small mining vessel designed to assist salvage operations.
+  description: Маленький шахтёрский корабль, сделанный для помощи в утилизаторских миссиях. 
   price: 18750
   category: Small
   group: Civilian
@@ -204,7 +204,7 @@
 - type: vessel
   id: Sparrow
   name: NR Sparrow
-  description: A combined research and engineering vessel suited for xeno-archeological expeditions.
+  description: Комбинированный инженерный и научный корабль, предназначенный для ксено-археологических экспедиций.
   price: 32500
   category: Small
   group: Civilian
@@ -234,7 +234,7 @@
 - type: vessel
   id: Condor
   name: NR Condor
-  description: A combined research and engineering vessel suited for xeno-archeological expeditions.
+  description: Комбинированный инженерный и научный корабль, предназначенный для ксено-археологических экспедиций.
   price: 58450
   category: Medium
   group: Civilian
@@ -267,7 +267,7 @@
 - type: vessel
   id: Interceptor
   name: NSF Interceptor
-  description: A small security vessel specializing in crime scene forensics.
+  description: Маленький охранный корабль, созданный для проведения расследований на местах преступлений. 
   price: 21350
   category: Small
   group: Security
@@ -295,7 +295,7 @@
 - type: vessel
   id: Enforcer
   name: NSF Enforcer
-  description: A small security vessel for rapid response
+  description: Маленький охранный шаттл для быстрого реагирования. 
   price: 21350
   category: Small
   group: Security
@@ -324,7 +324,7 @@
 - type: vessel
   id: Trident
   name: NSF Trident
-  description: A medium sized security vessel equipped with deadly force
+  description: Среднего размера охранный корабль, снабжённый большим количеством вооружения. 
   price: 49300
   category: Medium
   group: Security
@@ -354,7 +354,7 @@
 - type: vessel
   id: Pulse
   name: NM Pulse
-  description: A small rapid response medical ship
+  description: Маленький корабль быстрого медицинского реагирования. 
   price: 17450
   category: Small
   group: Civilian
@@ -383,7 +383,7 @@
 - type: vessel
   id: Helix
   name: NM Helix
-  description: A medium, modular hospital. Standard issue equipped with chem lab, cloning, and treatment ward
+  description: Средний медицинский корабль. По стандарту экипирован химией, клонировальной и палатами. 
   price: 52250
   category: Medium
   group: Civilian
@@ -415,7 +415,7 @@
 - type: vessel
   id: Skipper
   name: NC Skipper
-  description: A small service ship with a full service kitchen and hydroponics garden
+  description: Маленький сервисный корабль с гидропоникой и кухней. 
   price: 27850
   category: Small
   group: Civilian
