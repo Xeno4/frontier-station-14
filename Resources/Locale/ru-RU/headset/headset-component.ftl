@@ -3,7 +3,7 @@ chat-radio-message-wrap = [color={ $color }]{ $channel } { $name } говори�
 examine-headset-default-channel = Отображается, что каналом по умолчанию этой гарнитуры является [color={ $color }]{ $channel }[/color].
 chat-radio-common = Общий
 chat-radio-centcom = Центком
-chat-radio-command = Командный
+chat-radio-command = Контроль траффика
 chat-radio-engineering = Инженерный
 chat-radio-medical = Медицинский
 chat-radio-science = Научный
