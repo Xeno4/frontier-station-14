@@ -1,9 +1,6 @@
 <p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
-
-Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), our homegrown engine written in C#.
-
-This is the primary repo for Space Station 14. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
-
+Космическая станция 14 это ремейк одноименной СС13, сделанный на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
+Мы, разработчики локализации для форка SS14 - Frontier Station. [Discord](https://discord.gg/XMr529bTy)
 If you want to host or create content for SS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
 ## Links
